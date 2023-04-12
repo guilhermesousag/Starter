@@ -17,10 +17,6 @@ Projeto de introdução ao HTML e CSS, com o intuito de praticar e estudar.
   <img alt="Tela de Login" src=".github/tela-de-login.png" width="100%">
 </p>
 
-Projeto desenvolvido pela Rocketseat
-
-<!-- [🔗 Clique aqui para acessar](https://master-class-tweet.vercel.app/) -->
-
 ## 🚀 Tecnologias
 
 Esse projeto foi desenvolvido com as seguintes tecnologias:
